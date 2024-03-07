@@ -1,0 +1,79 @@
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.m1{
+    border: solid 2px;
+    border-radius: 80%;
+    width: 50px;
+    height: 50px;
+}
+.h3{
+    color: rgb(233, 9, 9);
+}
+#navbar{
+    gap: 30px;
+    display: flex;
+    padding-left: 40%;
+}
+#form{
+display: flex;
+padding-left: 20%;
+}
+#container2{
+    display: flex;
+    padding-left: 20%;
+}
+#make{
+    display: flex;
+    padding-left: 20%;
+}
+#text{
+    text-align: center;
+}
+#paragraph{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    padding-left: 30%;
+}
+#message{
+    text-align: center;
+}
+#images{
+    display: flex;
+    padding-left: 15%;
+    gap: 100px;
+}
+#testimonies{
+    text-align: center;
+}
+#refrences{
+    display: flex;
+    gap: 100px;
+    padding-left: 15%;
+}
+#footer{
+    display: flex;
+    gap: 100px;
+    padding-left: 15%;
+}
+.b1{
+    background-color: rgb(71, 71, 237);
+    border-radius: 20px;
+}
+.b2{
+    background-color: rgb(138, 132, 132);
+    border-radius: 20px;
+}
+span{
+    color: rgb(50, 50, 235);
+}
+
+ @media all and (max-width:500px){
+    body
+}
+.m5{
+    width: 70px;
+    height: 50px;
+}
